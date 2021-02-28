@@ -7,6 +7,9 @@ public class Git {
 		int a=0;
 		//new proje
 		System.out.println(a);
+		System.out.println("hello");
+		System.out.println("selam");
+		System.out.println("maruf");
 
 	}
 
